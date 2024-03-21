@@ -10,4 +10,5 @@ hostnamectl # to verify
 aliases
 install/config nginx
 install/config certbot
+apt-get install iptables ipset certbot nginx python3-certbot-nginx
 
