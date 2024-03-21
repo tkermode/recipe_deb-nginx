@@ -4,6 +4,9 @@ clone git repos
 install iptables
 iptables config scripts
 rename host
+hostnamectl set-hostname server_name
+edit /etc/hosts
+hostnamectl # to verify
 aliases
 install/config nginx
 install/config certbot
