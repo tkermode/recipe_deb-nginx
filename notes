@@ -1,7 +1,10 @@
-sshd_config
-git
-iptables
+harden sshd_config
+install git
+clone git repos
+install iptables
+iptables config scripts
 rename host
 aliases
-nginx
-certbot
+install/config nginx
+install/config certbot
+
